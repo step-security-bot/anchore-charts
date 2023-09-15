@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: docker
+    directory: /scripts
+    schedule:
+      interval: daily
